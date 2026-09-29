@@ -1,0 +1,28 @@
+
+=== Network Interface Evidence ===
+
+
+Interface: lo
+  Family: 2
+  Address: 127.0.0.1
+  Netmask: 255.0.0.0
+  Family: 10
+  Address: ::1
+  Netmask: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+  Family: 17
+  Address: 00:00:00:00:00:00
+  Netmask: None
+
+Interface: eth0
+  Family: 2
+  Address: 10.26.48.204
+  Netmask: 255.255.255.0
+  Family: 10
+  Address: 2409:40f4:e:8b0:7bfc:8ce5:caa1:d7c0
+  Netmask: ffff:ffff:ffff:ffff::
+  Family: 10
+  Address: fe80::1f3e:c7f4:477b:40a0%eth0
+  Netmask: ffff:ffff:ffff:ffff::
+  Family: 17
+  Address: 08:00:27:5a:87:bc
+  Netmask: None

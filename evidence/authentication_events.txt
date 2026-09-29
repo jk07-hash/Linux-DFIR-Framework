@@ -1,0 +1,51 @@
+Sep 28 09:27:21 kali dbus-daemon[990]: [session uid=1000 pid=990 pidfd=5] Successfully activated service 'org.gtk.vfs.UDisks2VolumeMonitor'
+Sep 28 09:27:21 kali dbus-daemon[990]: [session uid=1000 pid=990 pidfd=5] Activating via systemd: service name='org.gtk.vfs.MTPVolumeMonitor' unit='gvfs-mtp-volume-monitor.service' requested by ':1.40' (uid=1000 pid=1593 comm="/usr/lib/x86_64-linux-gnu/tumbler-1/tumblerd" label="unconfined")
+Sep 28 09:27:21 kali dbus-daemon[990]: [session uid=1000 pid=990 pidfd=5] Successfully activated service 'org.gtk.vfs.MTPVolumeMonitor'
+Sep 28 09:27:21 kali dbus-daemon[990]: [session uid=1000 pid=990 pidfd=5] Activating via systemd: service name='org.gtk.vfs.GPhoto2VolumeMonitor' unit='gvfs-gphoto2-volume-monitor.service' requested by ':1.40' (uid=1000 pid=1593 comm="/usr/lib/x86_64-linux-gnu/tumbler-1/tumblerd" label="unconfined")
+Sep 28 09:27:21 kali dbus-daemon[990]: [session uid=1000 pid=990 pidfd=5] Successfully activated service 'org.gtk.vfs.GPhoto2VolumeMonitor'
+Sep 28 09:27:21 kali dbus-daemon[990]: [session uid=1000 pid=990 pidfd=5] Activating via systemd: service name='org.gtk.vfs.GoaVolumeMonitor' unit='gvfs-goa-volume-monitor.service' requested by ':1.40' (uid=1000 pid=1593 comm="/usr/lib/x86_64-linux-gnu/tumbler-1/tumblerd" label="unconfined")
+Sep 28 09:27:21 kali dbus-daemon[990]: [session uid=1000 pid=990 pidfd=5] Successfully activated service 'org.gtk.vfs.GoaVolumeMonitor'
+Sep 28 09:27:21 kali dbus-daemon[990]: [session uid=1000 pid=990 pidfd=5] Activating via systemd: service name='org.gtk.vfs.AfcVolumeMonitor' unit='gvfs-afc-volume-monitor.service' requested by ':1.40' (uid=1000 pid=1593 comm="/usr/lib/x86_64-linux-gnu/tumbler-1/tumblerd" label="unconfined")
+Sep 28 09:27:21 kali dbus-daemon[990]: [session uid=1000 pid=990 pidfd=5] Successfully activated service 'org.gtk.vfs.AfcVolumeMonitor'
+Sep 28 09:27:21 kali dbus-daemon[990]: [session uid=1000 pid=990 pidfd=5] Successfully activated service 'org.freedesktop.thumbnails.Thumbnailer1'
+Sep 28 09:27:23 kali dbus-daemon[990]: [session uid=1000 pid=990 pidfd=5] Activating via systemd: service name='org.bluez.obex' unit='obex.service' requested by ':1.55' (uid=1000 pid=1555 comm="/usr/bin/python3 /usr/bin/blueman-applet" label="unconfined")
+Sep 28 09:27:23 kali dbus-daemon[990]: [session uid=1000 pid=990 pidfd=5] Successfully activated service 'org.bluez.obex'
+Sep 28 09:27:23 kali dbus-daemon[990]: [session uid=1000 pid=990 pidfd=5] Activating via systemd: service name='org.gnome.evolution.dataserver.Sources5' unit='evolution-source-registry.service' requested by ':1.59' (uid=1000 pid=1943 comm="/usr/libexec/bluetooth/obexd" label="unconfined")
+Sep 28 09:27:23 kali dbus-daemon[990]: [session uid=1000 pid=990 pidfd=5] Activation via systemd failed for unit 'evolution-source-registry.service': Unit evolution-source-registry.service not found.
+Sep 28 09:27:23 kali dbus-daemon[990]: [session uid=1000 pid=990 pidfd=5] Activating via systemd: service name='org.gnome.evolution.dataserver.Sources5' unit='evolution-source-registry.service' requested by ':1.59' (uid=1000 pid=1943 comm="/usr/libexec/bluetooth/obexd" label="unconfined")
+Sep 28 09:27:23 kali dbus-daemon[990]: [session uid=1000 pid=990 pidfd=5] Activation via systemd failed for unit 'evolution-source-registry.service': Unit evolution-source-registry.service not found.
+Sep 28 09:27:25 kali kernel: 13:27:25.161492 main      cannot aquire pidfile /home/kali/.vboxclient-vmsvga-session-tty7-control.pid, exitting
+Sep 28 09:27:33 kali dbus-daemon[990]: [session uid=1000 pid=990 pidfd=5] Activating via systemd: service name='org.freedesktop.portal.Desktop' unit='xdg-desktop-portal.service' requested by ':1.62' (uid=1000 pid=2038 comm="/usr/bin/qterminal" label="unconfined")
+Sep 28 09:27:34 kali dbus-daemon[990]: [session uid=1000 pid=990 pidfd=5] Activating via systemd: service name='org.freedesktop.impl.portal.PermissionStore' unit='xdg-permission-store.service' requested by ':1.63' (uid=1000 pid=2049 comm="/usr/libexec/xdg-desktop-portal" label="unconfined")
+Sep 28 09:27:34 kali dbus-daemon[990]: [session uid=1000 pid=990 pidfd=5] Successfully activated service 'org.freedesktop.impl.portal.PermissionStore'
+Sep 28 09:27:34 kali dbus-daemon[990]: [session uid=1000 pid=990 pidfd=5] Activating via systemd: service name='org.freedesktop.portal.Documents' unit='xdg-document-portal.service' requested by ':1.63' (uid=1000 pid=2049 comm="/usr/libexec/xdg-desktop-portal" label="unconfined")
+Sep 28 09:27:34 kali dbus-daemon[990]: [session uid=1000 pid=990 pidfd=5] Successfully activated service 'org.freedesktop.portal.Documents'
+Sep 28 09:27:34 kali dbus-daemon[990]: [session uid=1000 pid=990 pidfd=5] Activating via systemd: service name='org.freedesktop.impl.portal.desktop.gtk' unit='xdg-desktop-portal-gtk.service' requested by ':1.63' (uid=1000 pid=2049 comm="/usr/libexec/xdg-desktop-portal" label="unconfined")
+Sep 28 09:27:34 kali dbus-daemon[990]: [session uid=1000 pid=990 pidfd=5] Successfully activated service 'org.freedesktop.impl.portal.desktop.gtk'
+Sep 28 09:27:34 kali dbus-daemon[990]: [session uid=1000 pid=990 pidfd=5] Successfully activated service 'org.freedesktop.portal.Desktop'
+Sep 28 09:35:01 kali CRON[6025]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sep 28 09:35:01 kali CRON[6025]: pam_unix(cron:session): session closed for user root
+Sep 28 09:39:01 kali CRON[8025]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sep 28 09:39:01 kali CRON[8027]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Sep 28 09:39:01 kali CRON[8025]: pam_unix(cron:session): session closed for user root
+Sep 28 09:39:32 kali systemd[1]: Starting phpsessionclean.service - Clean php session files...
+Sep 28 09:39:32 kali systemd[1]: phpsessionclean.service: Deactivated successfully.
+Sep 28 09:39:32 kali systemd[1]: Finished phpsessionclean.service - Clean php session files.
+Sep 28 09:45:02 kali CRON[11045]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sep 28 09:45:02 kali CRON[11045]: pam_unix(cron:session): session closed for user root
+Sep 28 09:46:43 kali dbus-daemon[990]: [session uid=1000 pid=990 pidfd=5] Activating via systemd: service name='org.xfce.Xfconf' unit='xfconfd.service' requested by ':1.24' (uid=1000 pid=1209 comm="xfsettingsd" label="unconfined")
+Sep 28 09:46:43 kali dbus-daemon[990]: [session uid=1000 pid=990 pidfd=5] Successfully activated service 'org.xfce.Xfconf'
+Sep 28 09:55:01 kali CRON[16020]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sep 28 09:55:01 kali CRON[16020]: pam_unix(cron:session): session closed for user root
+Sep 28 10:04:04 kali dbus-daemon[990]: [session uid=1000 pid=990 pidfd=5] Activating via systemd: service name='org.xfce.Xfconf' unit='xfconfd.service' requested by ':1.70' (uid=1000 pid=20204 comm="/usr/libexec/xfce4-screensaver-dialog --monitor=0" label="unconfined")
+Sep 28 10:04:04 kali dbus-daemon[990]: [session uid=1000 pid=990 pidfd=5] Successfully activated service 'org.xfce.Xfconf'
+Sep 28 10:04:12 kali xfce4-screensaver-dialog[20204]: gkr-pam: unlocked login keyring
+Sep 28 10:04:12 kali xfce4-screensaver-dialog[20366]: pam_unix(xfce4-screensaver:account): setuid failed: Operation not permitted
+Sep 28 10:05:01 kali CRON[20780]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sep 28 10:05:01 kali CRON[20780]: pam_unix(cron:session): session closed for user root
+Sep 28 10:09:00 kali systemd[1]: Starting phpsessionclean.service - Clean php session files...
+Sep 28 10:09:00 kali systemd[1]: phpsessionclean.service: Deactivated successfully.
+Sep 28 10:09:00 kali systemd[1]: Finished phpsessionclean.service - Clean php session files.
+Sep 28 10:09:01 kali CRON[22757]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Sep 28 10:09:01 kali CRON[22759]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Sep 28 10:09:01 kali CRON[22757]: pam_unix(cron:session): session closed for user root
